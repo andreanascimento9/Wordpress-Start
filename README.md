@@ -10,6 +10,8 @@ Iniciar ambiente de Desenvolvimento com Wordpress via Composer
 
 -copie todo o core para a raiz e realize o processo de instalação normalmente
 
+-após todos os arquivos dentro do diretorio wordpress estarem na raiz, apague a pasta **wordpress**
+
 
 
 # Clonar tema:
