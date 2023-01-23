@@ -1,0 +1,24 @@
+{
+    "name": "sua-empresa/seu-site-wp",
+    "description": "Seu projeto WordPress com tema personalizado",
+    "require": {
+        "johnpbloch/wordpress": "6.1.*"
+    },
+    "authors": [
+        {
+            "name": "Seu Nome",
+            "email": "seu@email.com"
+        }
+    ],
+    "extra": {
+        "installer-paths": {
+            "./": ["type:wordpress-core"],
+            "app/": ["type:wordpress-theme"]
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "johnpbloch/wordpress-core-installer": true
+        }
+    }
+}
