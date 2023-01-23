@@ -2,7 +2,9 @@
 Iniciar ambiente de Desenvolvimento com Wordpress via Composer
 
 # Iniciar Ambiente:
--composer install
+-git clone **repositorio** <nome-de-sua-preferencia>
+
+-composer install dentro do diretorio clonado
 
 -apos terminar a instalação do wordpress, criará um diretorio **wordpress** na raiz
 
