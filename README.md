@@ -1,7 +1,7 @@
 # Wordpress-Start-
 Start development environment with Wordpress
 
-#Iniciar Ambiente:
+# Iniciar Ambiente:
 -composer install
 
 -apos terminar a instalação do wordpress, criará um diretorio **wordpress** na raiz
