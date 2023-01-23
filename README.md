@@ -1,5 +1,5 @@
 # Wordpress-Start-
-Start development environment with Wordpress
+Iniciar ambiente de Desenvolvimento com Wordpress via Composer
 
 # Iniciar Ambiente:
 -composer install
@@ -17,4 +17,6 @@ um starter. Exemplo: https://roots.io/sage/docs/installation/
 -ative o tema 
 
 -Seja feliz!
+
+-Use Xampp ou Laragon para apache, só uma dica mesmo!
 
