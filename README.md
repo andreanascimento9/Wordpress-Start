@@ -1,4 +1,4 @@
-# Wordpress-Start-
+# Wordpress-Start
 Iniciar ambiente de Desenvolvimento com Wordpress via Composer
 
 # Iniciar Ambiente:
